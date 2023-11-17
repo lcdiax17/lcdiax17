@@ -1,11 +1,11 @@
 <div>
   
   <h1 align="center">
-   Hi everyone 👋 Eu sou o 
-    <a href="https://www.linkedin.com/in/lucasdiassilva">Lucas Dias 😃️</a>
+   Olá, tudo bem? 👋 Eu sou o 
+    <a href="https://www.linkedin.com/in/lucasdiassilva">Lucas Dias</a>
   </h1>
 
-  <h2 align="center"> Sou Desenvolvedor Front-End  e gosto de compartilhar meu conhecimento e aprendizagem por aqui</h2>
+  <h2 align="center"> Sou Desenvolvedor Front End rumo ao Full Stack e gosto de compartilhar não apenas meu conhecimento, mas também meus projetos por aqui😁 </h2>
 &nbsp;
   
 </div>
@@ -27,6 +27,7 @@
 &nbsp;
  
 ## Tecnologias:
+
 &nbsp;
 
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -36,18 +37,27 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<![gitwall](https://github.com/lcdiax17/lcdiax17/assets/97840328/b6fd3da8-f329-410d-9bf7-dd3420d2af2c)>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Estudando no momento:
+&nbsp;
 
+## Estudando no momento:
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+&nbsp;
  
 ## Ferramentas de trabalho:
 
+&nbsp;
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-  
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+
+&nbsp;
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
